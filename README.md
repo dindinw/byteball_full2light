@@ -7,3 +7,23 @@ NOTE !!! use the script on yourself decision, it may be dangous, and cause money
 The script only test on MacOSX, it should also works for Linux (and Windows if cgwin or migw installed). 
 The script only test on byteball 1.8.2, don't know if it works for other versions. 
 本脚本在Mac操作系统基于雪球1.8.2版测试通过，其它雪球版本和操作系统的并未进行测试。
+
+# How to use
+
+1. make sure your wallet is a fullnode wallet. 
+
+2. copy the script into your byteball data folder 
+
+* macOS: ~/Library/Application Support/byteball
+* Linux: ~/.config/byteball
+* Windows: %LOCALAPPDATA%\byteball
+
+3. stop you byteball wallet before using the script
+
+4. execute the script 
+
+5. restart your byteball wallet, then a error message will be shown. don't worry. just close your wallet.
+
+6. then execute the script again
+
+7. restart your byteall wallet, if anything working, it should already be a light wallet.
