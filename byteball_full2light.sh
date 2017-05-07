@@ -1,7 +1,7 @@
 #!/bin/bash
 OUT=byteball_full2light.dump
 if [ -e byteball-light.sqlite ] && [ -e $OUT ]; then
-	sqlite3 byteball-light.sqlite ".read $OUT"
+    sqlite3 byteball-light.sqlite ".read $OUT"
     exit 0
 fi
 
