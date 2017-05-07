@@ -5,9 +5,9 @@ script to convert byteball fullnode wallet into light wallet.
 NOTE !!! use the script on yourself decision, it may be dangous, and cause money lost. please don't use the script if you has any concern. The author is not responsible for the consequences of use of this script. 
 请注意该脚本并不能保证工作，并且使用该脚本有很大的危险性，有可能造成无法挽回的财产损失。
 
-The script only test on MacOSX, it should also works for Linux (and Windows if cgwin or migw installed). 
-The script only test on byteball 1.8.2, don't know if it works for other versions. 
-本脚本在Mac操作系统基于雪球1.8.2版测试通过，其它雪球版本和操作系统的并未进行测试。
+The script only test on MacOSX, it should also work for Linux (and Windows if cgwin or migw installed). 
+The script only test on byteball 1.8.2, don't know if it works for the other versions. 
+本脚本在Mac操作系统基于雪球1.8.2版测试通过，其它雪球版本和操作系统并未进行测试。
 
 # How to use
 
