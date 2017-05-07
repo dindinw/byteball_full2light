@@ -18,7 +18,7 @@ The script only test on byteball 1.8.2, don't know if it works for other version
    *  Linux: ~/.config/byteball
    *  Windows: %LOCALAPPDATA%\byteball
 
-3. stop you byteball wallet before using the script
+3. stop your byteball wallet before using the script
 
 4. execute the script 
 
@@ -26,4 +26,4 @@ The script only test on byteball 1.8.2, don't know if it works for other version
 
 6. then execute the script again
 
-7. restart your byteall wallet, If everything work, it should already be a light wallet.
+7. restart your byteball wallet, If everything work, it should already be a light wallet.
