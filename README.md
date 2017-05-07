@@ -15,9 +15,9 @@ The script only test on byteball 1.8.2, don't know if it works for other version
 
 2. copy the script into your byteball data folder, you need to run the script inside your byteball data folder.
 
-   *  macOS: ~/Library/Application Support/byteball
-   *  Linux: ~/.config/byteball
-   *  Windows: %LOCALAPPDATA%\byteball
+   *  macOS: `~/Library/Application Support/byteball`
+   *  Linux: `~/.config/byteball`
+   *  Windows: `%LOCALAPPDATA%\byteball`
 
 3. stop your byteball wallet before using the script
 
