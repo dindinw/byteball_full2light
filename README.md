@@ -9,6 +9,9 @@ The script only test on MacOSX, it should also work for Linux (and Windows if cg
 The script only test on byteball 1.8.2, don't know if it works for the other versions. 
 本脚本在Mac操作系统基于雪球1.8.2版测试通过，其它雪球版本和操作系统并未进行测试。
 
+The script can not handle blackbyte, don't use it for bbyte.
+本脚本不能恢复黑球。
+
 # How to use
 
 1. make sure your wallet is a fullnode wallet. make sure you already full-backed up your wallet, and make sure you had already backed-up all your data inside your byteball data folder. 
