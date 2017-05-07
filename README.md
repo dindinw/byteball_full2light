@@ -14,16 +14,16 @@ The script only test on byteball 1.8.2, don't know if it works for other version
 
 2. copy the script into your byteball data folder 
 
-* macOS: ~/Library/Application Support/byteball
-* Linux: ~/.config/byteball
-* Windows: %LOCALAPPDATA%\byteball
+   *  macOS: ~/Library/Application Support/byteball
+   *  Linux: ~/.config/byteball
+   *  Windows: %LOCALAPPDATA%\byteball
 
 3. stop you byteball wallet before using the script
 
 4. execute the script 
 
-5. restart your byteball wallet, then a error message will be shown. don't worry. just close your wallet.
+5. restart your byteball wallet, then an error message will be shown. Don't worry, just close your wallet.
 
 6. then execute the script again
 
-7. restart your byteall wallet, if anything working, it should already be a light wallet.
+7. restart your byteall wallet, If everything work, it should already be a light wallet.
