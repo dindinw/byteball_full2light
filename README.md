@@ -18,9 +18,9 @@ The script can not handle blackbyte, don't use it for bbyte.
 
 2. please install the sqlite command-line tools before execute the script, the script depends on the sqlite.
   
-  *  macOS: `brew install sqlite`
-  *  Ubuntu: `sudo apt-get install sqlite3 libsqlite3-dev`
-  *  Windows: download `https://www.sqlite.org/2017/sqlite-tools-win32-x86-3180000.zip`
+   *  macOS: `brew install sqlite`
+   *  Ubuntu: `sudo apt-get install sqlite3 libsqlite3-dev`
+   *  Windows: download `https://www.sqlite.org/2017/sqlite-tools-win32-x86-3180000.zip`, unzip & copy the `sqlite3.exe` to your byteball data folder (see step 3). 
   
 3. copy the script into your byteball data folder, you need to run the script inside your byteball data folder. Please use `byteball_full2light.sh` for Mac/Linux , and `byteball_full2light.bat` for windows.
 
