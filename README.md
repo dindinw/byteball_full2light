@@ -16,18 +16,24 @@ The script can not handle blackbyte, don't use it for bbyte.
 
 1. make sure your wallet is a fullnode wallet. make sure you already full-backed up your wallet, and make sure you had already backed-up all your data inside your byteball data folder. 
 
-2. copy the script into your byteball data folder, you need to run the script inside your byteball data folder. for mac/linux please use `byteball_full2light.sh`, and `byteball_full2light.bat` for windows user.
+2. please install the sqlite command-line tools before execute the script, the script depends on the sqlite.
+  
+  *  macOS: `brew install sqlite`
+  *  Ubuntu: `sudo apt-get install sqlite3 libsqlite3-dev`
+  *  Windows: download `https://www.sqlite.org/2017/sqlite-tools-win32-x86-3180000.zip`
+  
+3. copy the script into your byteball data folder, you need to run the script inside your byteball data folder. Please use `byteball_full2light.sh` for Mac/Linux , and `byteball_full2light.bat` for windows.
 
    *  macOS: `~/Library/Application Support/byteball`
    *  Linux: `~/.config/byteball`
    *  Windows: `%LOCALAPPDATA%\byteball`
 
-3. stop your byteball wallet before using the script
+4. stop your byteball wallet before using the script
 
-4. execute the script 
+5. execute the script 
 
-5. restart your byteball wallet, then an error message will be shown. Don't worry, just close your wallet.
+6. restart your byteball wallet, then an error message will be shown. Don't worry, just close your wallet.
 
-6. then execute the script again
+7. then execute the script again
 
-7. restart your byteball wallet, If everything works, it should already be a light wallet.
+8. restart your byteball wallet, If everything works, it should already be a light wallet.
