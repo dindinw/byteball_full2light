@@ -37,3 +37,4 @@ The script can not handle blackbyte, don't use it for bbyte.
 7. then execute the script again
 
 8. restart your byteball wallet, If everything works, it should already be a light wallet.
+
